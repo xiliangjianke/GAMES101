@@ -1,0 +1,9 @@
+﻿  Job-0.cpp
+F:\unreal4\GAMES101\SourcePacage\vcpkg\vcpkg-master\vcpkg-master\installed\x64-windows\include\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+F:\unreal4\GAMES101\SourcePacage\vcpkg\vcpkg-master\vcpkg-master\installed\x64-windows\include\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+F:\unreal4\GAMES101\SourcePacage\vcpkg\vcpkg-master\vcpkg-master\installed\x64-windows\include\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+F:\unreal4\GAMES101\Job-0\Job-0\Job-0\Job-0.cpp(61,25): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+F:\unreal4\GAMES101\Job-0\Job-0\Job-0\Job-0.cpp(61,34): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+F:\unreal4\GAMES101\Job-0\Job-0\Job-0\Job-0.cpp(62,17): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+F:\unreal4\GAMES101\Job-0\Job-0\Job-0\Job-0.cpp(62,34): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+  Job-0.vcxproj -> F:\unreal4\GAMES101\Job-0\Job-0\x64\Debug\Job-0.exe
