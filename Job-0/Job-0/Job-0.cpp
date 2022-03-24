@@ -5,7 +5,9 @@
 #include<cmath>
 #include<Eigen/Core>
 #include<eigen3/Eigen/Dense>
+#include <opencv2/opencv.hpp>
 #include<iostream>
+/*
 int main() {
 
     // Basic Example of cpp
@@ -48,9 +50,9 @@ int main() {
     // matrix multiply vector i * v
 
 
-    /*
+    
     * PA 0
-    */
+    
     // TO DO: Define point P
     Eigen::Vector3f P(2.0, 1.0, 1.0);
 
@@ -85,3 +87,4 @@ int main() {
 //   4. Use the Error List window to view errors
 //   5. Go to Project > Add New Item to create new code files, or Project > Add Existing Item to add existing code files to the project
 //   6. In the future, to open this project again, go to File > Open > Project and select the .sln file
+*/
