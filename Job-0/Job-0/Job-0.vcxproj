@@ -143,12 +143,18 @@
   <ItemGroup>
     <ClCompile Include="Job-0.cpp" />
     <ClCompile Include="Job-1-main.cpp" />
+    <ClCompile Include="Job-2-main.cpp" />
     <ClCompile Include="rasterizer.cpp" />
+    <ClCompile Include="rasterizer_job1.cpp" />
     <ClCompile Include="Triangle.cpp" />
+    <ClCompile Include="Triangle_job1.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="global.hpp" />
     <ClInclude Include="rasterizer.hpp" />
+    <ClInclude Include="rasterizer_job1.hpp" />
     <ClInclude Include="Triangle.hpp" />
+    <ClInclude Include="Triangle_job1.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

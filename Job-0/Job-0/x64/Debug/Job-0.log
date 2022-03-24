@@ -1,14 +1,25 @@
 ﻿D:\vs2019\install\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Job-0.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  Job-1-main.cpp
+  rasterizer.cpp
 F:\unreal4\GAMES101\SourcePacage\vcpkg\vcpkg-master\vcpkg-master\installed\x64-windows\include\eigen3\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
 F:\unreal4\GAMES101\SourcePacage\vcpkg\vcpkg-master\vcpkg-master\installed\x64-windows\include\eigen3\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
 F:\unreal4\GAMES101\SourcePacage\vcpkg\vcpkg-master\vcpkg-master\installed\x64-windows\include\eigen3\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
-F:\unreal4\GAMES101\Jobs\GAMES101\Job-0\Job-0\Job-1-main.cpp(33,19): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
-F:\unreal4\GAMES101\Jobs\GAMES101\Job-0\Job-0\Job-1-main.cpp(33,36): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
-F:\unreal4\GAMES101\Jobs\GAMES101\Job-0\Job-0\Job-1-main.cpp(34,3): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
-F:\unreal4\GAMES101\Jobs\GAMES101\Job-0\Job-0\Job-1-main.cpp(34,29): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
-F:\unreal4\GAMES101\Jobs\GAMES101\Job-0\Job-0\Job-1-main.cpp(60,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-F:\unreal4\GAMES101\Jobs\GAMES101\Job-0\Job-0\Job-1-main.cpp(78,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-F:\unreal4\GAMES101\Jobs\GAMES101\Job-0\Job-0\Job-1-main.cpp(132,56): warning C4305: 'argument': truncation from 'double' to 'float'
-F:\unreal4\GAMES101\Jobs\GAMES101\Job-0\Job-0\Job-1-main.cpp(150,56): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\unreal4\GAMES101\Jobs\GAMES101\Job-0\Job-0\rasterizer.cpp(66,7): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+F:\unreal4\GAMES101\Jobs\GAMES101\Job-0\Job-0\rasterizer.cpp(66,10): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+F:\unreal4\GAMES101\Jobs\GAMES101\Job-0\Job-0\rasterizer.cpp(100,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\unreal4\GAMES101\Jobs\GAMES101\Job-0\Job-0\rasterizer.cpp(101,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\unreal4\GAMES101\Jobs\GAMES101\Job-0\Job-0\rasterizer.cpp(119,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\unreal4\GAMES101\Jobs\GAMES101\Job-0\Job-0\rasterizer.cpp(120,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\unreal4\GAMES101\Jobs\GAMES101\Job-0\Job-0\rasterizer.cpp(166,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+F:\unreal4\GAMES101\Jobs\GAMES101\Job-0\Job-0\rasterizer.cpp(168,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+F:\unreal4\GAMES101\Jobs\GAMES101\Job-0\Job-0\rasterizer.cpp(177,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+F:\unreal4\GAMES101\Jobs\GAMES101\Job-0\Job-0\rasterizer.cpp(177,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+F:\unreal4\GAMES101\Jobs\GAMES101\Job-0\Job-0\rasterizer.cpp(185,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\unreal4\GAMES101\Jobs\GAMES101\Job-0\Job-0\rasterizer.cpp(210,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+F:\unreal4\GAMES101\Jobs\GAMES101\Job-0\Job-0\rasterizer.cpp(212,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+F:\unreal4\GAMES101\Jobs\GAMES101\Job-0\Job-0\rasterizer.cpp(214,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\unreal4\GAMES101\Jobs\GAMES101\Job-0\Job-0\rasterizer.cpp(214,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\unreal4\GAMES101\Jobs\GAMES101\Job-0\Job-0\rasterizer.cpp(217,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\unreal4\GAMES101\Jobs\GAMES101\Job-0\Job-0\rasterizer.cpp(217,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\unreal4\GAMES101\Jobs\GAMES101\Job-0\Job-0\rasterizer.cpp(222,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\unreal4\GAMES101\Jobs\GAMES101\Job-0\Job-0\rasterizer.cpp(291,12): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
   Job-0.vcxproj -> F:\unreal4\GAMES101\Jobs\GAMES101\Job-0\x64\Debug\Jobs.exe
